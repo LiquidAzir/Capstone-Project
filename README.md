@@ -1,4 +1,4 @@
-# Capstone-Project
+# Order-Delay-Prediction
 
 **Executive Summary**
 In the dynamic world of e-commerce, ensuring timely delivery is a cornerstone for achieving customer satisfaction and fostering loyalty. The importance of predicting delivery times accurately cannot be overstated, as delays can lead to customer dissatisfaction, negative feedback, and a decline in repeat business. Conversely, precise delivery predictions can significantly improve operational efficiency, manage customer expectations more effectively, and potentially reduce costs associated with expedited shipping or compensations for delays. This analysis aims to provide non-AI/ML personnel with insights into how different aspects of the order process impact delivery times, enabling informed decision-making to enhance the customer experience.
